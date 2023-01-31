@@ -1,0 +1,31 @@
+{
+  "name": "bapti-funkopop",
+  "version": "1.0.4",
+  "description": "A minimal client for funkopop's hosted inference API on Replicate.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bapti-off",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch-cookies": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bapti-off/midjourney-client-bapti"
+  },
+  "keywords": [
+    "midjourney",
+    "stable-diffusion",
+    "openjourney",
+    "api",
+    "client",
+    "replicate"
+  ],
+  "bugs": {
+    "url": "https://github.com/bapti-off/midjourney-client-bapti/issues"
+  },
+  "homepage": "https://github.com/bapti-off/midjourney-client-bapti#readme"
+}
